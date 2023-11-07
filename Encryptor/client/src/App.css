@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=IBM+Plex+Mono:wght@300&family=Inter:wght@400&family=Pacifico&family=Poppins:wght@600&family=Raleway:wght@100&display=swap');
+body {
+  position: relative;
+  font-family: "Inter";
+  background: #f3f5fc;
+}
+.App {
+  border: 2px solid blue;
+  min-width: 100vw;
+  min-height: 100vh;
+  position: relative;
+}
